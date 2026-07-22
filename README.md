@@ -1,8 +1,6 @@
 ## Hi I'm George
 
-- I've been programming for almost 2 years
-- Check out my RAG Q&A Assistant: [RAG Assistant](https://ragprojectassistant-jwgekvzyney6auurumdl37.streamlit.app/)
-- Loan Approval Model: [Loan Approval](http://ec2-35-179-103-165.eu-west-2.compute.amazonaws.com:8000)
-- Currently learning about MCP
-- Currently reading AI Engineering - Building Applications with Foundation Models by Chip Huyen
-- Eager to work as part of a team and learn!
+- I've been programming for over 2 years
+- Check out my article scrapre/NLP pipeline: [ai news intelligence](https://ainewsintelligence-qsfysdaxgs5c5mdj7ob9mt.streamlit.app/)
+- Commission sheet ETL pipeline: [commisson sheet generator](https://github.com/gh4rris/commission_sheet_generator)
+- Currently learning about running local AI models and creating agents
